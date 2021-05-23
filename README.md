@@ -1,5 +1,4 @@
 # SpaceVikings (SVT) 
-+ 
 + SpaceVikings Contract
 + SpaceVikingsToken is one of the first ever crypto currencies from Denmark. We are a strong team with fully transparency. 
 + Our token has 3 different features regarding tokenomics. 1 % Jackpot Concept, 4% Liquidity Pool, 5% Redistributed to holders. 
